@@ -1,0 +1,12 @@
+.homeTab {
+    display: flex;
+    padding: 5px;
+}
+.header {
+    display: flex;
+}
+.navbar {
+    background-color: ghostwhite;
+    width: 100%;
+    height:100px;
+}
